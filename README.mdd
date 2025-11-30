@@ -1,0 +1,62 @@
+# 🍽️ Restaurant Data Analysis (Zomato-Style Project)
+
+This project showcases SQL-based data analysis using a synthetic restaurant dataset of **11,000 rows**.  
+It includes table creation, data generation, and 5 professional analysis queries suitable for GitHub and resume portfolio.
+
+---
+
+## 📁 Files Included
+
+### **1) Dataset Creation**
+- `01_create_and_insert_11000_rows.sql`  
+  Creates the `restaurants` table and inserts 11,000 rows of realistic restaurant data (name, city, cuisine, rating, opened_date).
+
+### **2) Analysis Queries**
+- `02_top_cities_by_avg_rating.sql`  
+- `03_top_cuisines_by_popularity.sql`  
+- `04_yearly_openings_trend.sql`  
+- `05_city_high_rating_percentage.sql`  
+- `06_top_3_cuisines_per_city.sql`
+
+Each file contains clean, formatted SQL code with comments.
+
+---
+
+## 📊 Analysis Performed
+
+1. **Top Cities by Average Rating**  
+2. **Most Popular Cuisines (Most Restaurants)**  
+3. **Yearly Trend of Restaurant Openings**  
+4. **City-wise % of High Ratings (≥ 4.0)**  
+5. **Top 3 Cuisines Per City (Ranked using ROW_NUMBER)**
+
+---
+
+## 🚀 How To Run
+
+1. Open SQL Server (SSMS).  
+2. Run `01_create_and_insert_11000_rows.sql` to create and populate the table.  
+3. Run any of the analysis files (02–06) to view insights.  
+4. Optional: Export results to Excel or Python for visualizations.
+
+---
+
+## 📌 Project Purpose
+
+This project is designed to demonstrate:
+
+- SQL data analysis skills  
+- Understanding of window functions  
+- Realistic dataset creation  
+- Portfolio-ready documentation  
+- Insights similar to food delivery apps (Zomato, Swiggy)
+
+---
+
+## 👦 Created By  
+**Praful Katariya**
+
+GitHub: *(Add your profile link)*  
+LinkedIn: *(Optional)*  
+
+---
